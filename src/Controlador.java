@@ -1,0 +1,6 @@
+
+//Controlador
+public class Controlador {
+
+	
+}
